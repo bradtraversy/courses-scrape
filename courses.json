@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Tailwind CSS From Scratch",
+    "level": "BEGINNER",
+    "url": "https://www.udemy.com/course/tailwind-from-scratch",
+    "promo": "TAILWINDNOV2022"
+  },
+  {
+    "title": "React Front To Back 2022",
+    "level": "BEGINNER - INTERMEDIATE",
+    "url": "https://www.udemy.com/course/react-front-to-back-2022/?referralCode=4A622C7E48DB66154114",
+    "promo": "REACTNOV2022"
+  },
+  {
+    "title": "50 Projects in 50 Days - HTML, CSS & JavaScript",
+    "level": "BEGINNER",
+    "url": "https://www.udemy.com/course/50-projects-50-days/?referralCode=684EE5F9DE1745B6428B",
+    "promo": "50PROJECTSNOV2022"
+  },
+  {
+    "title": "Modern HTML & CSS From The Beginning",
+    "level": "BEGINNER",
+    "url": "https://www.udemy.com/course/modern-html-css-from-the-beginning/?referralCode=EB0470C43F3C3E9AA306",
+    "promo": "HTMLCSSNOV2022"
+  },
+  {
+    "title": "Modern JavaScript From The Beginning",
+    "level": "BEGINNER",
+    "url": "https://www.udemy.com/course/modern-javascript-from-the-beginning/?referralCode=F3249B20C1BBE85EFEEC",
+    "promo": "JSNOV2022"
+  },
+  {
+    "title": "Next.js Dev To Deployment",
+    "level": "INTERMEDIATE",
+    "url": "https://www.udemy.com/course/nextjs-dev-to-deployment/?referralCode=7CD3920A9760E6ABEC11",
+    "promo": "NEXTNOV2022"
+  },
+  {
+    "title": "MERN eCommerce From Scratch",
+    "level": "Intermediate",
+    "url": "https://www.udemy.com/course/mern-ecommerce/?referralCode=C8B2CD73BFA462D1219C",
+    "promo": "MERNECOMMNOV2022"
+  },
+  {
+    "title": "Node.js API Masterclass",
+    "level": "Intermediate",
+    "url": "https://www.udemy.com/course/nodejs-api-masterclass/?referralCode=F95A0D3B9CA1DB648F55",
+    "promo": "NODENOV2022"
+  },
+  {
+    "title": "20 Vanilla JavaScript Projects",
+    "level": "Beginner",
+    "url": "https://www.udemy.com/course/web-projects-with-vanilla-javascript/?referralCode=F9B7C7FED834F91ADE75",
+    "promo": "20PROJECTSNOV2022"
+  },
+  {
+    "title": "Python Django Dev To Deployment",
+    "level": "Intermediate",
+    "url": "https://www.udemy.com/course/python-django-dev-to-deployment/?referralCode=A9FE27488C451769B322",
+    "promo": "DJANGONOV2022"
+  },
+  {
+    "title": "PHP MVC OOP - Build a Framework",
+    "level": "Intermediate",
+    "url": "https://www.udemy.com/course/object-oriented-php-mvc/?referralCode=E3FD4CD073A8AF79CF04",
+    "promo": "PHPNOV2022"
+  },
+  {
+    "title": "Electron From Scratch",
+    "level": "Intermediate",
+    "url": "https://www.udemy.com/course/electron-from-scratch/?referralCode=D83E1593BE5EC5AFF830",
+    "promo": "ELECTRONNOV2022"
+  }
+]
